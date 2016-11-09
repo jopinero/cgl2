@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+
+}
+
+body{
+	background: url(http://localhost/cgl2/img/portada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 100%;
+    
+}
+header{
+
+}
+
+.formulario {
+            
+    float: left;
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 82px;
+}
+
+.formulario2 {
+            
+    float: left;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 850px;
+}
+
+.espacio{
+    height:1em;
+}
+
+
+footer{ 
+    position:fixed; 
+    bottom:0px;
+    background-color:rgba(45, 135, 187, 0.53);
+    width: 100%;
+    
+}
+
+footer .h5 {
+    margin: 0;
+    padding: 5px 0;
+    color: #fff;
+    margin-left: 82px;
+    
+}
+
